@@ -11,16 +11,17 @@ Em desenvolvimento...
 # :hammer: Funcionalidades do projeto
 
 
-- `Autenticação de usuário`: cadastro, login, validação de dados de usuários
+- `Autenticação de usuário`: Cadastro, login, validação de dados de usuários
 &nbsp;
+
+- `Painel de imóveis`: Uma página de todos os imóvels com redirecionamento para cada imóvel e seu respectivo perfil.
+
+- `Filtros de imóveis`: Filtragem por preço, cidade e tipo de imóvel
 
 
 
 
 # ✔️ Técnicas e tecnologias utilizadas
-
-
-
 
 - ``Framework Django``
 - ``Python, Js, html, css, Bootstrap``
